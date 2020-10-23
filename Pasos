@@ -1,0 +1,20 @@
+Pasos para crear una aplicación Express
+=========================================
+
+Crear una aplicación "artesanal"
+********************************
+
+-  npm init -> Crea un archivo package.json
+-  npm install express --save -> Instala express
+-  Crea el nombre index.js (o el que pusieras en el npm init).
+
+-  Ejecutar el servidor: node index.js
+-  Puedes crear un atajo para ejecutarlo en package.json:
+
+      "scripts": {
+        "serve": "node index.js"
+      },
+
+     y ejecutarlo con npm run serve 
+
+   (Estructura tipo => estructura-tipo.js) 

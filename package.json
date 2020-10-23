@@ -1,0 +1,14 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "Programa de Prueba de Express",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "author": "Antonio Úbeda Montero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
